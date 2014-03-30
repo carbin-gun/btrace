@@ -1,0 +1,9 @@
+~/
+.releaseBackup/
+.tag/
+target/
+build/
+patches/
+dependency-reduced-pom.xml/
+*.jar
+release.properties
